@@ -1,0 +1,12 @@
+{
+  "name": "pillbox",
+  "dependencies": {
+    "component-bind": "*",
+    "trim": "*",
+    "component-events": "*",
+    "keyname": "*",
+    "component-emitter": "*",
+    "component-each": "*",
+    "component-set" "*"
+  }
+}

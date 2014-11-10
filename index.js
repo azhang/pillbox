@@ -9,7 +9,7 @@ var Emitter = require('emitter')
   , Set = require('set')
   , bind = require('bind')
   , trim = require('trim')
-  , normalize = require('normalize');
+  , normalize = require('./normalize');
 
 /**
  * Expose `Pillbox`.
