@@ -2,12 +2,12 @@
  * Module dependencies.
  */
 
-var Emitter = require('emitter')
+var Emitter = require('component-emitter')
   , keyname = require('keyname')
-  , events = require('events')
-  , each = require('each')
-  , Set = require('set')
-  , bind = require('bind')
+  , events = require('component-events')
+  , each = require('component-each')
+  , Set = require('component-set')
+  , bind = require('component-bind')
   , trim = require('trim')
   , normalize = require('./normalize');
 
