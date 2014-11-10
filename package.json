@@ -8,6 +8,6 @@
     "keyname": "*",
     "component-emitter": "*",
     "component-each": "*",
-    "component-set": "*"
+    "set-component": "*"
   }
 }
